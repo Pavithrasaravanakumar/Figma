@@ -32,10 +32,10 @@ Publish the website in the given URL.
 ## DESIGN TOOL:
 Figma
 
-## CODE:
+
 
 ## OUTPUT:
-
+![alt text](<Screenshot 2024-04-28 210447.png>)
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
